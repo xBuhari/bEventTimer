@@ -1,0 +1,33 @@
+settings:
+  timeformat:
+    v1: '%s% saniye'
+    v2: '%m% dakika, %s% saniye'
+    v3: '%h% saat, %m% dakika, %s% saniye'
+  bossbar:
+    status: true
+    colorNow: RED
+    colorTime: YELLOW
+    style: SEGMENTED_20
+
+lang:
+  perm_error: '&cYetkiniz yok.'
+
+events:
+  '0':
+    time: '13:00'
+    textTime: '&eEjderha etkinliğine &f%time% &ekaldı!'
+    textNow: '&eEjderha etkinliği &fbaşladı!'
+    cmds:
+      - 'say Ejderha Etkinliğini Başlatma Komutu'
+  '1':
+    time: '15:00'
+    textTime: '&eBalık etkinliğine &f%time% &ekaldı!'
+    textNow: '&eBalık etkinliği &fbaşladı!'
+    cmds:
+      - 'say Balık Etkinliğini Başlatma Komutu'
+  '2':
+    time: '18:00'
+    textTime: '&eKasa etkinliğine &f%time% &ekaldı!'
+    textNow: '&eKasa etkinliği &fbaşladı!'
+    cmds:
+      - 'say Kasa Etkinliğini Başlatma Komutu'
