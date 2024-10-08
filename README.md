@@ -17,8 +17,6 @@ Eklentimizin konsepti oldukça basit. Basit olmasına rağmen **güzel ve mantı
 [![YouTube Video](https://i.hizliresim.com/4rvba7h.png)](https://youtube.com/CkLjeO0rHo4)
 
 ### Görseller
-![1728027581687](https://i.hizliresim.com/4rvba7h.png)
-![1728027647307](https://i.hizliresim.com/4rvba7h.png)
 
 ### Eklenti Örnek Ayar Dosyası
 ```yaml
