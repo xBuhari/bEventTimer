@@ -14,7 +14,7 @@ Eklentimizin konsepti oldukça basit. Basit olmasına rağmen **güzel ve mantı
 <center>
 
 ### Video
-[![YouTube Video](https://i.hizliresim.com/4rvba7h.png)](https://youtube.com/CkLjeO0rHo4)
+[https://youtube.com/CkLjeO0rHo4](https://www.youtube.com/watch?v=CkLjeO0rHo4)
 
 ### Görseller
 
